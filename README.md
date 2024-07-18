@@ -47,7 +47,7 @@ El proyecto consta de 5 piezas principales:
 
 6. Al momento de unir la lámpara al la bandeja, coloque el soporte de la lámpara para evitar la caída de esta.
 
-## Imagenes ensamblado listo
+### Imagenes ensamblado listo
 
 <img src="/img/resultado (1).JPG" alt="drawing" width="300"/> 
 <img src="/img/ensamblado.JPG" alt="drawing" width="300"/> 
