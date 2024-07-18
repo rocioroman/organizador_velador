@@ -45,10 +45,16 @@ El proyecto consta de 5 piezas principales:
 
 <img src="/img/velcro.png" alt="drawing" width="300"/>
 
-6. Al momento de unir la lámpara al la bandeja, coloque el soporte de la lámpara para evitar la caída de esta. 
+6. Al momento de unir la lámpara al la bandeja, coloque el soporte de la lámpara para evitar la caída de esta.
+
+## Imagenes ensamblado listo
+
+<img src="/img/resultado (1).JPG" alt="drawing" width="300"/> 
+<img src="/img/ensamblado.JPG" alt="drawing" width="300"/> 
+
+
 ## Costos
 
-![Diseño 3d](img/soporte.JPG) 
 
 ## Posible mejoras
 
