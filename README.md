@@ -28,11 +28,13 @@ El proyecto consta de 5 piezas principales:
 | 5 | Soporte Lámpara  | PLA      | Impresión 3D |
 
 ### Fabricación 
-*Corte CNC*
+**Corte CNC**
 1. Realizar el corte de las piezas de madera acorde al archivo de diseño *corteCNC.f3d* presente en la carpeta **/archivos/construcción**. El diseño está hecho para utilizar una fresa con diámetro máximo de 6mm. El archivo *corteCNC.sbp* presente en la misma carpeta cuenta con las instrucciones de corte utilizando una fresa punta plana Ø1/8" que cuenta con pestañas o *tabs* para evitar el movimiento de piezas durante el proceso de corte.
 2. Remueva las pestañas y lije la pieza para eliminar cualquier irregularidad.
-*Impresión 3D*
-1. Imprima el tope de la lámpara utilizando el archivo *impresion3D.stl* presente en la carpeta **/archivos/construcción**.
+
+**Impresión 3D**
+1. Imprima el soporte/ tope de la lámpara utilizando el archivo *impresion3D.stl* presente en la carpeta **/archivos/construcción**.
+
 ## Ensamble
 1. Pegar la pieza 3 y 4 con pegamento de madera para formar la bandeja, asegurándose que sus bordes se alineen. Dejar prensado por lo menos por un día para garantizar un buen pegado.
 2. Unir las paredes (1) con los estantes (2). Las paredes van de forma vertical y los estantes de forma horizontal. Debe quedar un tipo de mesa con dos estantes.
