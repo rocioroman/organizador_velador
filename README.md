@@ -1,6 +1,7 @@
 # Organizador para velador
 
-Este diseño surge a partir de la necesidad de organizar el espacio utilizado por los objetos que se colocan sobre un velador y mejorar la estabilidad de la lámpara ubicada en este. Cuenta con estantes para colocar libros, una bandeja central para items de uso diario (como reloj, billetera y collares) y una apertura para acople con lámpara. Lor archivos de diseño se encuentran en la carpeta **/archivos/diseño**.
+Este diseño surge a partir de la necesidad de organizar el espacio utilizado por los objetos que se colocan sobre un velador y mejorar la estabilidad de la lámpara ubicada en este. Cuenta con estantes para colocar libros, una bandeja central para items de uso diario (como reloj, billetera y collares) y una apertura para acople con lámpara.
+Lor archivos de diseño se encuentran en la carpeta **/archivos/diseño**.
 
 ![Diseño 3d](img/diseno3d.png) 
 
