@@ -2,4 +2,4 @@
 
 
 
-![Descripción de la imagen](organizador_velador/img/diseno3d.png) 
+![Descripción de la imagen](img/diseno3d.png) 
