@@ -1,6 +1,6 @@
 # Organizador para velador
 
-Este diseño surge a partir de la necesidad de organizar el espacio utilizado por los objetos que se colocan sobre un velador y mejorar la estabilidad de la lampara ubicada en este. Cuenta con estantes para colocar libros, una bandeja central para items de uso diario (como reloj, billetera y collares) y una apertura para acople con lámpara. 
+Este diseño surge a partir de la necesidad de organizar el espacio utilizado por los objetos que se colocan sobre un velador y mejorar la estabilidad de la lámpara ubicada en este. Cuenta con estantes para colocar libros, una bandeja central para items de uso diario (como reloj, billetera y collares) y una apertura para acople con lámpara. Lor archivos de diseño se encuentran en la carpeta **/archivos/diseño**.
 
 ![Diseño 3d](img/diseno3d.png) 
 
@@ -11,7 +11,8 @@ Este diseño surge a partir de la necesidad de organizar el espacio utilizado po
 - Almohadilla fieltro
 - Palos pequeños de madera ("palitos de helado", o "palitos para manualidades")
 
-## Fabricación Partes y ensamble
+## Fabricación Partes y Ensamble
+### Partes
 El proyecto consta de 5 piezas principales: 
 
 ![Partes diseño](img/partes.png) 
@@ -24,8 +25,14 @@ El proyecto consta de 5 piezas principales:
 | 4 | Borde Bandeja | Madera   | Corte CNC    |
 | 5 | Tope Lámpara  | PLA      | Impresión 3D |
 
-1. Realizar el corte de las piezas de madera acorde al archivo de diseño *corteCNC.f3d* presente en **/archivos/construcción**
-
+### Fabricación 
+*Corte CNC*
+1. Realizar el corte de las piezas de madera acorde al archivo de diseño *corteCNC.f3d* presente en **/archivos/construcción**. El diseño está hecho para utilizar una fresa con diametro máximo de 6mm. El arvhico *corteCNC.sbp* presente en la misma carpeta cuenta con las instrucciones de corte utilizando una fresa punta plana Ø1/8" que cuenta con pestañaso *tabs* para evitar el movimiento de piezas durante el proceso de corte.
+2. Remueva las pestañas y lije la pieza para eliminar cualquier irregularidad.
+*Impresión 3D*
+1. Imprima el tope de la lampara utilizando el archivo *impresion3D.stl* presente en la carpeta **/archivos/construcción**.
+## Ensamble
+1. 
 ## Costos
 
 ## Posible mejoras
