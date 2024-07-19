@@ -13,6 +13,7 @@ Lor archivos de diseño se encuentran en la carpeta **/archivos/diseño**.
 - Almohadilla fieltro
 - Palos pequeños de madera ("palitos de helado", o "palitos para manualidades")
 
+El costo aproximado del proyecto este de 7000 pesos, considerando 1/4 de "pliego" de madera, el fieltro y los palillos de madera.
 ## Fabricación Partes y Ensamble
 ### Partes
 El proyecto consta de 5 piezas principales: 
@@ -43,7 +44,7 @@ El proyecto consta de 5 piezas principales:
 <img src="/img/topes.png" alt="drawing" width="300"/>
 
 4. Unir en la parte superior de la estructura la bandeja, haciendo calzar sus agujeros con la espiga de las paredes.
-5. Cubra la base de las paredes con fieltro para asegurar no rayar el velador.
+5. Cubra la base de las paredes con fieltro para asegurar no rayar el velador. Cortar para adejuar al tamaño.
 
 <img src="/img/velcro.png" alt="drawing" width="300"/>
 
@@ -55,9 +56,7 @@ El proyecto consta de 5 piezas principales:
 <img src="/img/ensamblado.JPG" alt="drawing" width="300"/> 
 
 
-## Costos
-
-
-
 ## Posible mejoras
 
+- Integrar el tope para el soporte de la lámpara al diseño
+- 
