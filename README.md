@@ -2,7 +2,7 @@
 # Organizador para velador
 
 Este diseño surge a partir de la necesidad de organizar el espacio utilizado por los objetos que se colocan sobre un velador y mejorar la estabilidad de la lámpara ubicada en este. Cuenta con estantes para colocar libros, una bandeja central para items de uso diario (como reloj, billetera y collares) y una apertura para acople con lámpara.
-Lor archivos de diseño se encuentran en la carpeta **/archivos/diseño**.
+Los archivos de diseño se encuentran en la carpeta **/archivos/diseño**.
 
 ![Diseño 3d](img/diseno3d.png) 
 
@@ -44,11 +44,11 @@ El proyecto consta de 5 piezas principales:
 <img src="/img/topes.png" alt="drawing" width="300"/>
 
 4. Unir en la parte superior de la estructura la bandeja, haciendo calzar sus agujeros con la espiga de las paredes.
-5. Cubra la base de las paredes con fieltro para asegurar no rayar el velador. Cortar para adejuar al tamaño.
+5. Cubra la base de las paredes con fieltro para asegurar no rayar el velador. Cortar para adecuar al tamaño.
 
 <img src="/img/velcro.png" alt="drawing" width="300"/>
 
-6. Al momento de unir la lámpara al la bandeja, coloque el soporte de la lámpara para evitar la caída de esta.
+6. Al momento de unir la lámpara a la bandeja, coloque el tope impreso de la lámpara para evitar la caída de esta.
 
 ### Imagenes ensamblado listo
 
@@ -59,4 +59,5 @@ El proyecto consta de 5 piezas principales:
 ## Posible mejoras
 
 - Integrar el tope para el soporte de la lámpara al diseño
-- 
+- Modificar entrada lámpara para no requerir del tope impreso
+- Integrar una lámpara propia al diseño
